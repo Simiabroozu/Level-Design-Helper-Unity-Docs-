@@ -48,7 +48,7 @@ A single-window toolkit that dramatically speeds up scene building. No configura
 3. Select the `package.json` file in this folder
 
 ### Manual
-Copy the `LevelDesignHelper` folder into your project's `Assets/` directory.
+Copy the `ProBuild Helper` folder into your project's `Assets/` directory.
 
 ---
 
