@@ -53,7 +53,7 @@ Copy the `LevelDesignHelper` folder into your project's `Assets/` directory.
 ---
 
 ## Opening the Window
-**Tools → Level Design Helper** or **Ctrl+Shift+L**
+**Tools → ProBuild Helper** or **Ctrl+Shift+L**
 
 ---
 
