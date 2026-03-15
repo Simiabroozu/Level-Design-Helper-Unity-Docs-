@@ -1,4 +1,4 @@
-# Level Design Helper
+# ProBuild Helper
 
 **Version 1.0.0 · Unity 2021.3+**
 
